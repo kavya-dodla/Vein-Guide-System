@@ -26,7 +26,7 @@ The Python implementation uses:
 * Contour Analysis
 * Automatic Vein Localization
 
-![Python Results](Images/python_results.png)
+![Python Results](Images/python_results.jpeg)
 
 ### Processing Stages
 
@@ -54,7 +54,7 @@ The MATLAB implementation uses:
 * Skeletonization
 * Distance Transform Analysis
 
-![MATLAB Results](Images/matlab_results.png)
+![MATLAB Results](Images/matlab_results.jpeg)
 
 ### Processing Stages
 
