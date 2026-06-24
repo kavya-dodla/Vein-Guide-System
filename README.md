@@ -55,6 +55,8 @@ The MATLAB implementation uses:
 * Distance Transform Analysis
 
 ![MATLAB Results](Images/matlab_result.jpeg)
+![MATLAB Results](Images/matlab_result1.jpeg)
+
 
 ### Processing Stages
 
